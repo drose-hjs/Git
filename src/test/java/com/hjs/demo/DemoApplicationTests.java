@@ -13,6 +13,7 @@ public class DemoApplicationTests {
     public void contextLoads() {
         System.out.println("你好Git!");
         System.out.println("dev分支");
+        System.out.println("GitHub操作");
     }
 
 }
