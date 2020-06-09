@@ -12,6 +12,7 @@ public class DemoApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("你好Git!");
+        System.out.println("dev分支");
     }
 
 }
