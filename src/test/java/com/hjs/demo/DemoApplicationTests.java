@@ -14,6 +14,7 @@ public class DemoApplicationTests {
         System.out.println("你好Git!");
         System.out.println("dev分支");
         System.out.println("GitHub操作");
+        System.out.println("push到GitHub");
     }
 
 }
